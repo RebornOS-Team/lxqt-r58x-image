@@ -1,7 +1,6 @@
-# lxqt-rock5b-image
-Files for creating an lxqt rock 5b image
+# lxqt-r58x-image
+Files for creating an lxqt Mekotronics r58x image
 Usage
 ```
-mkimage.py -w ./work/ -o ./out/ -c ./lxqt-rock5b-image/
-
+mkimage.py -w ./work/ -o ./out/ -c ./lxqt-r58x-image/
 ```

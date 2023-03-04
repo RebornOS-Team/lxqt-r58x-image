@@ -5,8 +5,9 @@ file_permissions=(
   ["/etc/"]="0:0:755"
   ["/usr/bin/resizefs"]="0:0:755"
   ["/usr/bin/zswap-arm-ctrl"]="0:0:755"
+  ["/usr/bin/oemcleanup"]="0:0:755"
+  ["/usr/bin/remove-calamares"]="0:0:755"
   ["/home/rebornos/"]="1001:1001:750"
-  ["/boot/"]="0:0:755"
 )
 #template dir is passed as an arg converted from a relative path to an absolute path
 template_dir=$(readlink -f "$1")

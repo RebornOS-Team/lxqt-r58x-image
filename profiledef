@@ -17,5 +17,5 @@ configtxt='''
 LABEL RebornOS ARM
     KERNEL /vmlinuz-linux-rockchip-rk3588
     INITRD /initramfs-linux-rockchip-rk3588.img
-    FDT /dtbs/rockchip/rk3588-hugsun-edge-android.dtb
+    FDT /dtbs/rockchip/rk3588-blueberry-edge-v10-linux.dtb
 '''
