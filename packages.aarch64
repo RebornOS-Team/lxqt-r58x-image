@@ -36,6 +36,7 @@ pipewire-jack
 rebornos-keyring
 rebornos-mirrorlist
 rebornos-iso-welcome
+rebornos-logo
 rebornos-welcome
 dosfstools
 e2fsprogs
@@ -47,3 +48,7 @@ calamares-configuration-rock5b
 rebornos-cosmic-lxqt
 mali-G610-firmware
 # update-extlinux
+blueman
+cpupower
+r58x-post-install
+firmware-mekotronics
