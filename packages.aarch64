@@ -12,8 +12,8 @@ sudo
 polkit
 bluez-utils
 #f2fs-tools
-linux-rockchip-rk3588-bin
-linux-rockchip-rk3588-bin-headers
+linux-rockchip-rk3588
+linux-rockchip-rk3588-headers
 mesa-panfork-git
 libdrm
 libdrm-rockchip
